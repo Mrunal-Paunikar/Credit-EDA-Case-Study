@@ -1,0 +1,8 @@
+The dataset for this case study is hosted on Kaggle:  
+[Credit EDA Dataset](https://www.kaggle.com/datasets/mrunalpaunikar/Application Data Set and Previous application data)
+
+It includes the following CSV files:
+- `application_data.csv` – Original credit application data  
+- `previous_application.csv` – Previous application records  
+- `application_cleaned.csv` – Processed/cleaned version of application data  
+- `previous_aggregated.csv` – Aggregated features from previous applications  
